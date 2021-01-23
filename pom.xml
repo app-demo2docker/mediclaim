@@ -94,16 +94,7 @@
 						<phase>test</phase>
 						<goals>
 							<goal>report</goal>
-							<distributionManagement>
-    <snapshotRepository>
-       <id>nexus</id>
-       <url>http://35.154.114.199:8081/repository/maven-snapshots/</url>
-    </snapshotRepository>
-    <repository>
-       <id>nexus</id>
-       <url>http://35.154.114.199:8081/repository/maven-releases/</url>
-    </repository>
-  </distributionManagement>
+							
 						</goals>
 					</execution>
 				</executions>
