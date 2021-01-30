@@ -75,11 +75,11 @@
 		<distributionManagement>
     			<snapshotRepository>
        			<id>nexus</id>
-       			<url>http://35.154.114.199:8081/repository/maven-snapshots/</url>
+       			<url>http://ec2-35-154-90-22.ap-south-1.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
     			</snapshotRepository>
    		 <repository>
        			<id>nexus</id>
-      			 <url>http://35.154.114.199:8081/repository/maven-releases/</url>
+      			 <url>http://ec2-35-154-90-22.ap-south-1.compute.amazonaws.com:8081/repository/maven-releases/</url>
    		 </repository>
  	       </distributionManagement>
 
