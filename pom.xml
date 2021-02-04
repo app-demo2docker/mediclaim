@@ -74,12 +74,12 @@
 	</dependencies>
 		<distributionManagement>
     			<snapshotRepository>
-       			<id>nexus</id>
-       			<url>http://ec2-35-154-90-22.ap-south-1.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
+       				<id>nexus</id>
+       			 	<url>http://65.0.105.219:8081/repository/maven-snapshots/</url>
     			</snapshotRepository>
-   		 <repository>
-       			<id>nexus</id>
-      			 <url>http://ec2-35-154-90-22.ap-south-1.compute.amazonaws.com:8081/repository/maven-releases/</url>
+   				 <repository>
+       				<id>nexus</id>
+      			 <url>http://65.0.105.219:8081/repository/maven-releases/</url>
    		 </repository>
  	       </distributionManagement>
 
