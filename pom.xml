@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.devops.school</groupId>
 	<artifactId>mediclaim</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>mediclaim</name>
 	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
